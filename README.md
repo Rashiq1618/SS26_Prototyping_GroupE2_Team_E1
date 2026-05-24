@@ -52,7 +52,8 @@ The outcome of Task 1 includes SysML diagrams such as:
 - Block Definition Diagram
 - Internal Block Diagram
 - Activity Diagram
-- System Context Diagram
+- Sequence Diagram
+- Package Diagram
 
 ### Focus
 
