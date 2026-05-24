@@ -78,7 +78,7 @@ https://www.tinkercad.com/things/ceNQpAMCQlF-line-following-and-obstacle-avoidan
 
 * Tinkercad circuit image (tinkercad-circuit.png) 
 * Arduino simulation code (tinkercad-code.c)
-* Serial monitor demonstration video (serial-monitor-video.mp4)
+* Serial monitor demonstration video (tinkercad-simulationvideo.mp4)
 * Documentation file (README.md)
 
 ---
