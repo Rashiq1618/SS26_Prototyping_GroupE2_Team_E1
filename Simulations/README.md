@@ -64,9 +64,25 @@ When an obstacle is detected below the defined threshold distance:
 
 ---
 
+
+# Tinkercad Circuit Access
+
+The full interactive simulation can be accessed via the following link:
+
+https://www.tinkercad.com/things/ceNQpAMCQlF-line-following-and-obstacle-avoidance-car?sharecode=7HnLuDSdK0cSWGw96ZzEzZ7f8LoKGdW_kWuKVJtILQY
+
+
+---
+
 # Included Files
 
 * Tinkercad circuit image (tinkercad-circuit.png) 
 * Arduino simulation code (tinkercad-code.c)
 * Serial monitor demonstration video (serial-monitor-video.mp4)
 * Documentation file (README.md)
+
+---
+
+# Key Note
+
+This simulation represents the first functional prototype of the system. It is used to validate decision-making logic before transitioning to the physical hardware implementation.
