@@ -1,6 +1,6 @@
 # SysML Diagrams – Arduino Line Following and Obstacle Detection Car
 
-This repository contains the SysML diagrams for an Arduino-based autonomous vehicle project.  
+This folder contains the SysML diagrams for an Arduino-based autonomous vehicle project.  
 The vehicle is designed to follow a line using IR sensors and stop when an obstacle is detected using ultrasonic sensors.
 
 ## SysML Diagrams Included
