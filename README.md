@@ -1,51 +1,41 @@
-# Prototyping Course – Arduino Car Project
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=950&lines=Autonomous+Driving+Vehicle;Arduino-Based+Prototype;Line+Following+System;Obstacle+Detection+and+Avoidance" alt="Animated Title" />
+
+</div>
+
 
 ## Project Overview
 
-This repository contains all work, documentation, designs, simulations, code, and results for our **Prototyping Course Project**.
+The Autonomous Driving System (ADS) is a semester project for the System Engineering & Prototyping module at Hochschule Hamm-Lippstadt. It focuses on developing a robotic vehicle that can follow a line and avoid obstacles autonomously.
 
-The goal of the project is to design and build an **Arduino-based autonomous car** that can:
+## Key Features
 
-- Follow a lane or black line
-- Detect obstacles
-- React safely to the environment
-- Be developed using a system engineering approach
-- Be documented using SysML diagrams and proper project management
+- Lane or black-line following using infrared sensors.
+- Obstacle detection using ultrasonic sensors.
+- Dynamic route adjustment for obstacle avoidance.
+- Continued lane following after obstacle avoidance.
+- Autonomous operation without human intervention.
+- Systems engineering-based development approach.
+- Documentation using SysML diagrams and structured project management methods.
 
-The project will be developed step by step, starting from system analysis and modelling, followed by simulation, hardware prototyping, testing, and final refinement.
 
----
-
-## Team Git Repository Rules
-
-All team members are responsible for keeping this GitHub repository updated throughout the project.
-
-## Team Members
-
-- Naved Afridi Rashiq
-- Amina Boudali
-- Tanseem Farwah
-- Tzuen Lin
 
 ## Project Tasks
 
-## Task 1: System Engineering Model
+### Task 1: System Engineering Model
 
-The first task is to develop a first system engineering model based on the Systems Engineering lecture.
+Task 1 focuses on developing the initial systems engineering model for the autonomous vehicle prototype.
 
-This includes the analysis of the complete system before building the physical prototype.
+Main activities include:
 
-### Main Work
+- Analyzing the overall Arduino car system.
+- Defining system requirements.
+- Identifying the main vehicle functions.
+- Describing interactions between the user, vehicle, sensors, and environment.
+- Creating SysML diagrams to represent system structure and behavior.
 
-- Analyze the overall Arduino car system
-- Define the system requirements
-- Identify the main functions of the vehicle
-- Define the interaction between the user, vehicle, sensors, and environment
-- Create SysML diagrams
-
-### Expected Outcomes
-
-The outcome of Task 1 includes SysML diagrams such as:
+Expected SysML diagrams:
 
 - Requirements Diagram
 - Use Case Diagram
@@ -55,41 +45,22 @@ The outcome of Task 1 includes SysML diagrams such as:
 - Sequence Diagram
 - Package Diagram
 
-### Focus
 
-The main focus of this task is on **requirements engineering**, especially:
 
-- Functional requirements
-- Non-functional requirements
-- Hardware requirements
-- Safety requirements
-- User interaction requirements
+### Task 2: Prototype Development and Simulation
 
----
+Task 2 focuses on refining the system model and developing the first prototype concept.
 
-## Task 2: Prototype Development and Simulation
+Main activities include:
 
-The second task is to refine the system engineering model and develop a first prototype.
+- Refining the SysML system model.
+- Creating a pre-final system specification.
+- Building the first prototype design.
+- Simulating the Arduino car in Tinkercad.
+- Testing line-following and obstacle detection behavior.
+- Preparing the prototype for hardware implementation.
 
-The prototype should be able to:
-
-- Follow a line
-- Detect obstacles
-- Use sensors to react to the environment
-
-Before using the real hardware, the first version should be simulated in **Tinkercad**.
-
-### Main Work
-
-- Refine the SysML system model
-- Create a pre-final system specification
-- Build the first prototype design
-- Simulate the Arduino car in Tinkercad
-- Test the line-following behavior
-- Test obstacle detection using sensors
-- Prepare the system for hardware implementation
-
-### Expected Outcomes
+Expected outcomes:
 
 - Refined SysML diagrams
 - Pre-final system specification
@@ -98,54 +69,39 @@ Before using the real hardware, the first version should be simulated in **Tinke
 - First wiring design
 - Basic test results
 
-### Deadline
+**Task 2 Deadline:** 24.05.2026
 
-**Task 2 Deadline: 24.05.2026**
 
----
-
-## Task 3: Hardware Prototype and Milestones
-
-Task 3 focuses on implementing the prototype using real hardware.
-
-The Arduino car should be able to follow a lane and detect obstacles using the available sensors and hardware components.
-
----
-
-## Milestones
+## Hardware Prototype Milestones
 
 ### Milestone 1: Lane Following
 
-**Deadline: 15.06.2026**
+**Deadline:** 15.06.2026
 
-The vehicle should be able to follow the lane or black line using the IR sensors.
+Expected result:
 
-### Expected Result
+- The car can detect the line.
+- The car can move forward.
+- The car can turn left and right based on sensor values.
+- The car can follow the lane with basic stability.
 
-- Arduino car can detect the line
-- Car can move forward
-- Car can turn left and right based on sensor values
-- Car can follow the lane with basic stability
 
----
 
 ### Milestone 2: Obstacle Detection
 
-**Deadline: 06.07.2026**
+**Deadline:** 06.07.2026
 
-The vehicle should be able to detect obstacles using ultrasonic sensors.
+Expected result:
 
-### Expected Result
+- The car can detect obstacles in front of it.
+- The car can stop or react when an obstacle is detected.
+- Obstacle detection is integrated with the line-following behavior.
 
-- Arduino car can detect obstacles in front of it
-- Car can stop or react when an obstacle is detected
-- Obstacle detection is integrated with line-following behavior
 
----
 
 ## Hardware Components
 
-The Arduino car prototype may include the following components:
+The prototype uses the following main hardware components:
 
 - Arduino Uno
 - Motor driver board
@@ -159,3 +115,12 @@ The Arduino car prototype may include the following components:
 - Jumper wires
 - Chassis
 - Sensor holders
+
+
+
+## Contributors
+
+- Naved Afridi Rashiq
+- Amina Boudali
+- Tanseem Farwah
+- Tzuen Lin
