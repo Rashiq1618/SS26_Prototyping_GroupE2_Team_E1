@@ -8,6 +8,25 @@ The simulation was created to test the system logic before implementing the real
 
 ---
 
+## Simulation Access
+
+The full interactive simulation can be accessed via the following link:
+
+[View Interactive Simulation](PASTE_YOUR_TINKERCAD_LINK_HERE)
+
+---
+
+# Repository Contents
+
+* README.md
+* Circuit image (tinkercad-circuit.png)
+* Circuit schematic (tinkercad-schematic.pdf)
+* Bill of materials (tinkercad-bill-of-materials.csv)
+* Arduino simulation code (tinkercad-code.cpp)
+* Serial monitor demonstration video (tinkercad-simulationvideo.mp4)
+
+---
+
 # Simulation Adjustments
 
 ## IR Sensor Simulation Using Switches
@@ -19,7 +38,7 @@ Therefore, switches were used to simulate the IR sensor outputs.
 The switches represent whether the sensor detects:
 
 * the black line
-* or the white surface
+* the white surface
 
 ### Sensor Logic
 
@@ -29,7 +48,6 @@ The switches represent whether the sensor detects:
 | HIGH        | LOW          | Line detected on left sensor     | Turn left          |
 | LOW         | HIGH         | Line detected on right sensor    | Turn right         |
 | LOW         | LOW          | No line detected                 | Stop / search line |
-
 
 ---
 
@@ -64,25 +82,7 @@ When an obstacle is detected below the defined threshold distance:
 
 ---
 
-
-# Tinkercad Circuit Access
-
-The full interactive simulation can be accessed via the following link:
-
-https://www.tinkercad.com/things/ceNQpAMCQlF-line-following-and-obstacle-avoidance-car?sharecode=7HnLuDSdK0cSWGw96ZzEzZ7f8LoKGdW_kWuKVJtILQY
-
-
----
-
-# Included Files
-
-* Tinkercad circuit image (tinkercad-circuit.png) 
-* Arduino simulation code (tinkercad-code.c)
-* Serial monitor demonstration video (tinkercad-simulationvideo.mp4)
-* Documentation file (README.md)
-
----
-
 # Key Note
 
 This simulation represents the first functional prototype of the system. It is used to validate decision-making logic before transitioning to the physical hardware implementation.
+
