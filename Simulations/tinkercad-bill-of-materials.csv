@@ -1,0 +1,7 @@
+﻿Name,Quantity,Component
+"DIST1, DIST2",2," Ultrasonic Distance Sensor (4-pin)"
+"MRight, MLeft",2," Hobby Gearmotor"
+"BAT1",1," 9V Battery"
+"U2",1," H-bridge Motor Driver"
+"U1",1," Arduino Uno R3"
+"S2, S1",2," Slideswitch"
