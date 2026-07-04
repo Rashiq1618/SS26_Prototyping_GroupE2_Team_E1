@@ -74,7 +74,7 @@ Expected outcomes:
 
 ## Hardware Prototype Milestones
 
-### Milestone 1: Lane Following
+### Milestone 1: Line Following
 
 **Deadline:** 15.06.2026
 
