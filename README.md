@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=950&lines=Autonomous+Driving+Vehicle;Arduino-Based+Prototype;Line+Following+System;Obstacle+Detection+and+Avoidance;Competetion+Winners!" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=700&color=A855F7&center=true&vCenter=true&width=950&lines=Autonomous+Arduino+Driving+Vehicle;Line+Following+System;Obstacle+Detection+and+Avoidance;Reverse+180+Turn;Competetion+Winners!" alt="Animated Title" />
 
 <br><br>
 
