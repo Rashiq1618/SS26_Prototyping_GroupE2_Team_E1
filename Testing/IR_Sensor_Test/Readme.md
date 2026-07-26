@@ -8,7 +8,7 @@ The test reads both IR sensors and displays the detected line position through t
 
 <div align="center">
   <img
-    src="ir_sensor_test.png"
+    src="ir_sensor_test.jpeg"
     alt="Infrared line-sensor test results"
     width="800"
   />
