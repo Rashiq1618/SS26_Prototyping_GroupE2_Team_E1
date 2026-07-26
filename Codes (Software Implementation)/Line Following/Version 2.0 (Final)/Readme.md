@@ -1,4 +1,12 @@
-# Line Following
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=3000&pause=700&color=DC2626&center=true&vCenter=true&width=1000&lines=Line+Following" alt="Animated Title" />
+
+<div align="center">
+  <img
+    src="line_following_gif.gif"
+    alt="Autonomous vehicle demonstration"
+    width="380"
+  />
+</div>
 
 ## Overview
 
