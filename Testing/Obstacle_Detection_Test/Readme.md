@@ -8,7 +8,7 @@ The test verifies that both ultrasonic sensors operate correctly, compares their
 
 <div align="center">
   <img
-    src="obstacle_detection_test.png"
+    src="obstacle_detection_test.jpeg"
     alt="Ultrasonic obstacle-detection test"
     width="800"
   />
