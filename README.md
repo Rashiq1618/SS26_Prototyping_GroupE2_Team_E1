@@ -22,6 +22,12 @@ The Autonomous Driving System (ADS) is a semester project for the System Enginee
 * Systems engineering-based development approach.
 * Documentation using SysML diagrams and structured project management methods.
 
+## Project Management
+For quick access to the latest project management document:
+
+https://1drv.ms/x/c/035C08A24CA7E184/ASZJ2ImVzpFNkjZW__nrY-E?e=hg7Izb
+
+
 ## Project Tasks
 
 ### Task 1: System Engineering Model
